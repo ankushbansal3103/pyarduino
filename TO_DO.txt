@@ -1,0 +1,4 @@
+1.Adding a new experiment using gui
+2.adding plots for them
+3.converting the software into a complete python compiler so that any python code could be run
+

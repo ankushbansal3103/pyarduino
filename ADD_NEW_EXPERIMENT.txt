@@ -1,0 +1,12 @@
+      4 changes to be made in the code to add a new experiment.The changes are commented as CHANGE1,CHANGE2,CHANGE3,CHANGE4.
+1.Copy the python code of that experiment in "Examples" folder.
+2.Replace "EXPERIMENT_NAME" by the name to be displayed on the screen
+3.Replace "File_name" by filename of that exp in the "Examples" folder
+4.Remove '#' from all the 4 changes
+
+To add icon:-
+1.Copy the image in the "Icons" folder.
+2.add a new line in "icon.qrc" file---"<file>icons/NAME_OF_ICON.png</file>"
+3.Open terminal(command prompt) and change the current directory location of "icon.qrc"
+4.type command "pyrcc4 -o icon.qrc icon.py"  
+5.add icon name in the python code wherever u want

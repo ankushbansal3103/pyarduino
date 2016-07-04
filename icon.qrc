@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>icons/File-Open-icon.png</file>
+    <file>icons/File-New-icon (1).png</file>
+    <file>icons/database.png</file>
+    <file>icons/Actions-document-save-as-icon (3).png</file>
+    <file>icons/Redo-icon.png</file>
+    <file>icons/Undo-icon.png</file>
+    <file>icons/Document-Copy-icon.png</file>
+    <file>icons/cut-icon.png</file>
+    <file>icons/help-copy-icon.png</file>
+    <file>icons/Paste-icon.png</file>
+    <file>icons/Actions-edit-select-all-icon.png</file>
+    <file>icons/run256.png</file>
+    <file>icons/plot256.png</file>
+    <file>icons/run128.png</file>
+    <file>icons/plot128.png</file>
+    <file>icons/led256.png</file>
+    <file>icons/energy1.png</file>
+    <file>icons/LDR-256.png</file>
+    <file>icons/Potentiometer256.png</file>
+    <file>icons/Servo256.png</file>
+    <file>icons/motor1.png</file>
+    <file>icons/pushbutton1.png</file>
+    <file>icons/Python Arduino Logo4.png</file>
+    <file>icons/clear1.png</file>
+    <file>icons/Python Main Page.jpg</file>
+</qresource>
+</RCC>

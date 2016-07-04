@@ -1,0 +1,7 @@
+The software Pyarduino is built using Qt-Designer and modified using python2.7.11(64-bit).Following modules need to be installed as prerequisites-
+--Install pip module
+--using pip module, install following modules:
+  1. Matplotlib  (install pip, Go to terminal, type python press enter, type "pip install                               matplotlib" (without quotes))
+  2. pyserial    (install pip, Go to terminal, type python press enter, type "pip install                               pyserial" (without quotes))
+  3. subprocess
+Alternatively these can be installed using the setup given.
